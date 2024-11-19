@@ -1,0 +1,862 @@
+[2023-10-17T14:06:53.602+0000] {processor.py:157} INFO - Started process (PID=35) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:06:53.603+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:06:53.606+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:06:53.606+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:06:54.214+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:06:54.236+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:06:54.235+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:06:54.258+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.660 seconds
+[2023-10-17T14:07:24.442+0000] {processor.py:157} INFO - Started process (PID=63) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:07:24.444+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:07:24.447+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:07:24.447+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:07:24.717+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:07:24.729+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:07:24.729+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:07:24.745+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.308 seconds
+[2023-10-17T14:07:55.105+0000] {processor.py:157} INFO - Started process (PID=91) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:07:55.106+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:07:55.108+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:07:55.108+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:07:55.302+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:07:55.319+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:07:55.319+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:07:55.342+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.241 seconds
+[2023-10-17T14:08:25.755+0000] {processor.py:157} INFO - Started process (PID=114) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:08:25.756+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:08:25.757+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:08:25.757+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:08:25.948+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:08:25.966+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:08:25.965+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:08:25.990+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.237 seconds
+[2023-10-17T14:08:56.115+0000] {processor.py:157} INFO - Started process (PID=142) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:08:56.117+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:08:56.121+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:08:56.120+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:08:56.315+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:08:56.331+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:08:56.331+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:08:56.352+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.242 seconds
+[2023-10-17T14:09:26.542+0000] {processor.py:157} INFO - Started process (PID=170) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:09:26.543+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:09:26.545+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:09:26.545+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:09:26.730+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:09:26.745+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:09:26.745+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:09:26.762+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.226 seconds
+[2023-10-17T14:09:57.040+0000] {processor.py:157} INFO - Started process (PID=198) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:09:57.040+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:09:57.042+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:09:57.042+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:09:57.222+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:09:57.236+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:09:57.236+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:09:57.247+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:09:57.247+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T13:45:00+00:00, run_after=2023-10-17T14:00:00+00:00
+[2023-10-17T14:09:57.255+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.218 seconds
+[2023-10-17T14:10:27.511+0000] {processor.py:157} INFO - Started process (PID=218) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:10:27.512+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:10:27.514+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:10:27.514+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:10:27.694+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:10:27.710+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:10:27.709+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:10:27.721+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:10:27.721+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T13:45:00+00:00, run_after=2023-10-17T14:00:00+00:00
+[2023-10-17T14:10:27.733+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.225 seconds
+[2023-10-17T14:10:57.946+0000] {processor.py:157} INFO - Started process (PID=246) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:10:57.947+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:10:57.949+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:10:57.949+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:10:58.137+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:10:58.153+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:10:58.153+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:10:58.165+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:10:58.165+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T13:45:00+00:00, run_after=2023-10-17T14:00:00+00:00
+[2023-10-17T14:10:58.174+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.235 seconds
+[2023-10-17T14:11:28.475+0000] {processor.py:157} INFO - Started process (PID=274) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:11:28.476+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:11:28.478+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:11:28.478+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:11:28.667+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:11:28.685+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:11:28.685+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:11:28.700+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:11:28.700+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T13:45:00+00:00, run_after=2023-10-17T14:00:00+00:00
+[2023-10-17T14:11:28.711+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.239 seconds
+[2023-10-17T14:11:58.982+0000] {processor.py:157} INFO - Started process (PID=302) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:11:58.982+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:11:58.984+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:11:58.984+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:11:59.162+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:11:59.177+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:11:59.177+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:11:59.188+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:11:59.188+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T13:45:00+00:00, run_after=2023-10-17T14:00:00+00:00
+[2023-10-17T14:11:59.197+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.217 seconds
+[2023-10-17T14:12:29.335+0000] {processor.py:157} INFO - Started process (PID=322) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:12:29.335+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:12:29.337+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:12:29.337+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:12:29.511+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:12:29.528+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:12:29.527+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:12:29.540+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:12:29.539+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T13:45:00+00:00, run_after=2023-10-17T14:00:00+00:00
+[2023-10-17T14:12:29.549+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.217 seconds
+[2023-10-17T14:12:59.903+0000] {processor.py:157} INFO - Started process (PID=350) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:12:59.904+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:12:59.906+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:12:59.906+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:13:00.098+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:13:00.113+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:13:00.113+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:13:00.124+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:13:00.124+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T13:45:00+00:00, run_after=2023-10-17T14:00:00+00:00
+[2023-10-17T14:13:00.133+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.235 seconds
+[2023-10-17T14:13:30.301+0000] {processor.py:157} INFO - Started process (PID=378) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:13:30.303+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:13:30.305+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:13:30.305+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:13:30.508+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:13:30.525+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:13:30.525+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:13:30.538+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:13:30.538+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T13:45:00+00:00, run_after=2023-10-17T14:00:00+00:00
+[2023-10-17T14:13:30.549+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.251 seconds
+[2023-10-17T14:14:00.726+0000] {processor.py:157} INFO - Started process (PID=406) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:14:00.728+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:14:00.730+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:14:00.730+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:14:00.920+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:14:00.935+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:14:00.935+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:14:00.947+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:14:00.947+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T13:45:00+00:00, run_after=2023-10-17T14:00:00+00:00
+[2023-10-17T14:14:00.956+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.234 seconds
+[2023-10-17T14:14:31.278+0000] {processor.py:157} INFO - Started process (PID=426) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:14:31.279+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:14:31.281+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:14:31.280+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:14:31.465+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:14:31.480+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:14:31.480+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:14:31.492+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:14:31.491+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T13:45:00+00:00, run_after=2023-10-17T14:00:00+00:00
+[2023-10-17T14:14:31.500+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.225 seconds
+[2023-10-17T14:15:01.686+0000] {processor.py:157} INFO - Started process (PID=453) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:15:01.687+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:15:01.689+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:15:01.689+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:15:01.864+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:15:01.880+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:15:01.880+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:15:01.893+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:15:01.893+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:15:01.903+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.219 seconds
+[2023-10-17T14:15:32.219+0000] {processor.py:157} INFO - Started process (PID=481) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:15:32.220+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:15:32.222+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:15:32.221+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:15:32.401+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:15:32.416+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:15:32.416+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:15:32.427+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:15:32.427+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:15:32.436+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.222 seconds
+[2023-10-17T14:16:02.657+0000] {processor.py:157} INFO - Started process (PID=509) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:16:02.658+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:16:02.660+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:16:02.660+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:16:02.835+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:16:02.849+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:16:02.849+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:16:02.860+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:16:02.859+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:16:02.869+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.217 seconds
+[2023-10-17T14:16:33.273+0000] {processor.py:157} INFO - Started process (PID=529) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:16:33.274+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:16:33.276+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:16:33.276+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:16:33.453+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:16:33.470+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:16:33.470+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:16:33.483+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:16:33.483+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:16:33.492+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.225 seconds
+[2023-10-17T14:17:03.691+0000] {processor.py:157} INFO - Started process (PID=557) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:17:03.692+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:17:03.695+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:17:03.695+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:17:03.886+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:17:03.902+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:17:03.902+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:17:03.915+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:17:03.915+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:17:03.924+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.237 seconds
+[2023-10-17T14:17:34.080+0000] {processor.py:157} INFO - Started process (PID=585) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:17:34.081+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:17:34.083+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:17:34.082+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:17:34.274+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:17:34.289+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:17:34.289+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:17:34.301+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:17:34.301+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:17:34.310+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.233 seconds
+[2023-10-17T14:18:04.487+0000] {processor.py:157} INFO - Started process (PID=613) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:18:04.488+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:18:04.489+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:18:04.489+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:18:04.688+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:18:04.705+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:18:04.705+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:18:04.719+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:18:04.719+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:18:04.730+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.246 seconds
+[2023-10-17T14:18:34.979+0000] {processor.py:157} INFO - Started process (PID=633) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:18:34.980+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:18:34.983+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:18:34.983+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:18:35.180+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:18:35.196+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:18:35.195+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:18:35.208+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:18:35.208+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:18:35.218+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.242 seconds
+[2023-10-17T14:19:05.484+0000] {processor.py:157} INFO - Started process (PID=662) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:19:05.485+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:19:05.488+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:19:05.487+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:19:05.671+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:19:05.686+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:19:05.686+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:19:05.698+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:19:05.697+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:19:05.706+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.227 seconds
+[2023-10-17T14:19:35.942+0000] {processor.py:157} INFO - Started process (PID=690) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:19:35.944+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:19:35.947+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:19:35.947+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:19:36.130+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:19:36.145+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:19:36.145+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:19:36.158+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:19:36.158+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:19:36.167+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.230 seconds
+[2023-10-17T14:20:06.349+0000] {processor.py:157} INFO - Started process (PID=718) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:20:06.350+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:20:06.352+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:20:06.351+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:20:06.537+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:20:06.552+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:20:06.552+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:20:06.565+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:20:06.565+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:20:06.574+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.229 seconds
+[2023-10-17T14:20:36.775+0000] {processor.py:157} INFO - Started process (PID=739) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:20:36.776+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:20:36.778+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:20:36.777+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:20:36.987+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:20:37.007+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:20:37.007+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:20:37.021+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:20:37.021+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:20:37.032+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.260 seconds
+[2023-10-17T14:21:07.197+0000] {processor.py:157} INFO - Started process (PID=766) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:21:07.198+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:21:07.200+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:21:07.200+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:21:07.388+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:21:07.404+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:21:07.404+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:21:07.415+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:21:07.415+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:21:07.425+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.230 seconds
+[2023-10-17T14:21:37.552+0000] {processor.py:157} INFO - Started process (PID=794) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:21:37.553+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:21:37.555+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:21:37.554+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:21:37.735+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:21:37.750+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:21:37.749+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:21:37.761+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:21:37.761+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:21:37.771+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.221 seconds
+[2023-10-17T14:22:07.932+0000] {processor.py:157} INFO - Started process (PID=822) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:22:07.933+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:22:07.935+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:22:07.935+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:22:08.126+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:22:08.143+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:22:08.143+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:22:08.156+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:22:08.156+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:22:08.165+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.235 seconds
+[2023-10-17T14:22:38.370+0000] {processor.py:157} INFO - Started process (PID=842) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:22:38.371+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:22:38.374+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:22:38.373+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:22:38.565+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:22:38.581+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:22:38.581+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:22:38.595+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:22:38.594+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:22:38.605+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.238 seconds
+[2023-10-17T14:23:08.725+0000] {processor.py:157} INFO - Started process (PID=870) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:23:08.727+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:23:08.728+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:23:08.728+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:23:08.925+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:23:08.943+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:23:08.943+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:23:08.957+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:23:08.956+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:23:08.967+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.245 seconds
+[2023-10-17T14:23:39.093+0000] {processor.py:157} INFO - Started process (PID=899) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:23:39.094+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:23:39.096+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:23:39.096+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:23:39.289+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:23:39.303+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:23:39.303+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:23:39.315+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:23:39.315+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:23:39.325+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.237 seconds
+[2023-10-17T14:24:09.479+0000] {processor.py:157} INFO - Started process (PID=927) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:24:09.480+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:24:09.482+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:24:09.482+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:24:09.663+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:24:09.676+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:24:09.676+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:24:09.687+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:24:09.687+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:24:09.696+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.221 seconds
+[2023-10-17T14:24:39.941+0000] {processor.py:157} INFO - Started process (PID=947) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:24:39.943+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:24:39.945+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:24:39.945+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:24:40.132+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:24:40.149+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:24:40.148+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:24:40.165+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:24:40.165+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:24:40.173+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.237 seconds
+[2023-10-17T14:25:10.393+0000] {processor.py:157} INFO - Started process (PID=975) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:25:10.394+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:25:10.396+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:25:10.396+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:25:10.578+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:25:10.593+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:25:10.593+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:25:10.606+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:25:10.606+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:25:10.615+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.224 seconds
+[2023-10-17T14:25:40.846+0000] {processor.py:157} INFO - Started process (PID=1003) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:25:40.847+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:25:40.848+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:25:40.848+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:25:41.039+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:25:41.060+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:25:41.059+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:25:41.074+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:25:41.074+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:25:41.085+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.241 seconds
+[2023-10-17T14:26:11.227+0000] {processor.py:157} INFO - Started process (PID=1030) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:26:11.227+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:26:11.229+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:26:11.229+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:26:11.422+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:26:11.439+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:26:11.439+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:26:11.452+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:26:11.452+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:26:11.463+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.239 seconds
+[2023-10-17T14:26:41.637+0000] {processor.py:157} INFO - Started process (PID=1050) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:26:41.638+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:26:41.639+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:26:41.639+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:26:41.822+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:26:41.838+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:26:41.837+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:26:41.850+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:26:41.850+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:26:41.859+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.225 seconds
+[2023-10-17T14:27:12.034+0000] {processor.py:157} INFO - Started process (PID=1078) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:27:12.035+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:27:12.036+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:27:12.036+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:27:12.221+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:27:12.239+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:27:12.238+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:27:12.252+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:27:12.252+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:27:12.261+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.230 seconds
+[2023-10-17T14:27:42.565+0000] {processor.py:157} INFO - Started process (PID=1106) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:27:42.566+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:27:42.569+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:27:42.569+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:27:42.768+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:27:42.784+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:27:42.784+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:27:42.798+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:27:42.798+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:27:42.809+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.248 seconds
+[2023-10-17T14:28:13.008+0000] {processor.py:157} INFO - Started process (PID=1134) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:28:13.009+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:28:13.011+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:28:13.011+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:28:13.181+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:28:13.195+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:28:13.195+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:28:13.208+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:28:13.208+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:28:13.218+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.212 seconds
+[2023-10-17T14:28:43.445+0000] {processor.py:157} INFO - Started process (PID=1154) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:28:43.446+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:28:43.448+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:28:43.448+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:28:43.627+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:28:43.643+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:28:43.642+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:28:43.654+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:28:43.654+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:28:43.663+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.220 seconds
+[2023-10-17T14:29:13.945+0000] {processor.py:157} INFO - Started process (PID=1182) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:29:13.945+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:29:13.947+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:29:13.947+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:29:14.143+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:29:14.159+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:29:14.159+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:29:14.171+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:29:14.170+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:29:14.180+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.238 seconds
+[2023-10-17T14:29:44.362+0000] {processor.py:157} INFO - Started process (PID=1210) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:29:44.363+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:29:44.365+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:29:44.365+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:29:44.576+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:29:44.594+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:29:44.593+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:29:44.607+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:29:44.607+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:00:00+00:00, run_after=2023-10-17T14:15:00+00:00
+[2023-10-17T14:29:44.620+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.261 seconds
+[2023-10-17T14:30:14.737+0000] {processor.py:157} INFO - Started process (PID=1238) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:30:14.738+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:30:14.739+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:30:14.739+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:30:14.944+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:30:14.965+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:30:14.965+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:30:14.980+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:30:14.980+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:30:14.992+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.257 seconds
+[2023-10-17T14:30:45.282+0000] {processor.py:157} INFO - Started process (PID=1258) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:30:45.284+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:30:45.287+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:30:45.287+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:30:45.467+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:30:45.481+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:30:45.481+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:30:45.492+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:30:45.492+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:30:45.500+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.224 seconds
+[2023-10-17T14:31:15.666+0000] {processor.py:157} INFO - Started process (PID=1286) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:31:15.668+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:31:15.672+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:31:15.671+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:31:15.845+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:31:15.859+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:31:15.859+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:31:15.869+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:31:15.869+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:31:15.877+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.217 seconds
+[2023-10-17T14:31:46.136+0000] {processor.py:157} INFO - Started process (PID=1313) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:31:46.136+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:31:46.138+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:31:46.138+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:31:46.322+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:31:46.337+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:31:46.337+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:31:46.349+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:31:46.349+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:31:46.359+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.228 seconds
+[2023-10-17T14:32:16.624+0000] {processor.py:157} INFO - Started process (PID=1341) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:32:16.625+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:32:16.627+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:32:16.627+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:32:16.834+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:32:16.860+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:32:16.860+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:32:16.874+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:32:16.874+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:32:16.886+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.265 seconds
+[2023-10-17T14:32:47.011+0000] {processor.py:157} INFO - Started process (PID=1361) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:32:47.012+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:32:47.013+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:32:47.013+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:32:47.208+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:32:47.229+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:32:47.228+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:32:47.244+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:32:47.244+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:32:47.259+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.250 seconds
+[2023-10-17T14:33:17.554+0000] {processor.py:157} INFO - Started process (PID=1389) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:33:17.555+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:33:17.557+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:33:17.557+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:33:17.741+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:33:17.757+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:33:17.757+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:33:17.770+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:33:17.770+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:33:17.778+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.227 seconds
+[2023-10-17T14:33:48.114+0000] {processor.py:157} INFO - Started process (PID=1417) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:33:48.115+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:33:48.118+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:33:48.117+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:33:48.292+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:33:48.307+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:33:48.307+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:33:48.319+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:33:48.319+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:33:48.328+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.217 seconds
+[2023-10-17T14:34:18.489+0000] {processor.py:157} INFO - Started process (PID=1445) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:34:18.490+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:34:18.492+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:34:18.492+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:34:18.691+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:34:18.708+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:34:18.707+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:34:18.724+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:34:18.724+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:34:18.738+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.252 seconds
+[2023-10-17T14:34:48.986+0000] {processor.py:157} INFO - Started process (PID=1465) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:34:48.987+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:34:48.989+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:34:48.989+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:34:49.171+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:34:49.185+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:34:49.184+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:34:49.195+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:34:49.195+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:34:49.203+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.221 seconds
+[2023-10-17T14:35:19.447+0000] {processor.py:157} INFO - Started process (PID=1493) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:35:19.448+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:35:19.450+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:35:19.450+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:35:19.643+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:35:19.657+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:35:19.657+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:35:19.671+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:35:19.671+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:35:19.680+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.236 seconds
+[2023-10-17T14:35:49.810+0000] {processor.py:157} INFO - Started process (PID=1520) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:35:49.811+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:35:49.813+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:35:49.812+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:35:49.991+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:35:50.006+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:35:50.006+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:35:50.019+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:35:50.019+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:35:50.029+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.222 seconds
+[2023-10-17T14:36:20.195+0000] {processor.py:157} INFO - Started process (PID=1540) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:36:20.196+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:36:20.198+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:36:20.198+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:36:20.395+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:36:20.414+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:36:20.414+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:36:20.430+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:36:20.430+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:36:20.444+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.251 seconds
+[2023-10-17T14:36:50.592+0000] {processor.py:157} INFO - Started process (PID=1568) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:36:50.592+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:36:50.594+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:36:50.594+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:36:50.779+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:36:50.797+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:36:50.797+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:36:50.811+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:36:50.810+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:36:50.822+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.233 seconds
+[2023-10-17T14:37:21.088+0000] {processor.py:157} INFO - Started process (PID=1596) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:37:21.089+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:37:21.091+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:37:21.091+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:37:21.265+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:37:21.279+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:37:21.279+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:37:21.290+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:37:21.290+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:37:21.300+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.215 seconds
+[2023-10-17T14:37:51.588+0000] {processor.py:157} INFO - Started process (PID=1624) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:37:51.589+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:37:51.591+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:37:51.591+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:37:51.774+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:37:51.789+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:37:51.788+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:37:51.801+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:37:51.801+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:37:51.813+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.227 seconds
+[2023-10-17T14:38:22.023+0000] {processor.py:157} INFO - Started process (PID=1644) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:38:22.024+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:38:22.026+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:38:22.026+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:38:22.228+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:38:22.245+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:38:22.245+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:38:22.258+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:38:22.258+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:38:22.269+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.249 seconds
+[2023-10-17T14:38:52.404+0000] {processor.py:157} INFO - Started process (PID=1672) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:38:52.405+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:38:52.406+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:38:52.406+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:38:52.590+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:38:52.605+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:38:52.605+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:38:52.618+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:38:52.618+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:38:52.627+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.226 seconds
+[2023-10-17T14:39:22.779+0000] {processor.py:157} INFO - Started process (PID=1700) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:39:22.780+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:39:22.781+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:39:22.781+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:39:22.967+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:39:22.984+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:39:22.983+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:39:22.997+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:39:22.996+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:39:23.006+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.233 seconds
+[2023-10-17T14:39:53.133+0000] {processor.py:157} INFO - Started process (PID=1728) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:39:53.134+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:39:53.136+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:39:53.136+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:39:53.322+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:39:53.336+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:39:53.336+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:39:53.347+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:39:53.347+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:39:53.357+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.227 seconds
+[2023-10-17T14:40:23.528+0000] {processor.py:157} INFO - Started process (PID=1748) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:40:23.529+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:40:23.531+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:40:23.530+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:40:23.712+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:40:23.729+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:40:23.729+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:40:23.741+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:40:23.741+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:40:23.752+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.227 seconds
+[2023-10-17T14:40:53.929+0000] {processor.py:157} INFO - Started process (PID=1776) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:40:53.930+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:40:53.932+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:40:53.931+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:40:54.118+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:40:54.133+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:40:54.133+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:40:54.146+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:40:54.146+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:40:54.155+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.230 seconds
+[2023-10-17T14:41:24.266+0000] {processor.py:157} INFO - Started process (PID=1805) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:41:24.267+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:41:24.269+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:41:24.268+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:41:24.463+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:41:24.479+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:41:24.479+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:41:24.492+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:41:24.492+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:41:24.503+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.240 seconds
+[2023-10-17T14:41:54.645+0000] {processor.py:157} INFO - Started process (PID=1833) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:41:54.646+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:41:54.647+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:41:54.647+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:41:54.835+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:41:54.853+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:41:54.853+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:41:54.866+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:41:54.866+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:41:54.875+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.235 seconds
+[2023-10-17T14:42:25.036+0000] {processor.py:157} INFO - Started process (PID=1853) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:42:25.037+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:42:25.039+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:42:25.039+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:42:25.229+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:42:25.243+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:42:25.243+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:42:25.255+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:42:25.255+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:42:25.266+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.234 seconds
+[2023-10-17T14:42:55.445+0000] {processor.py:157} INFO - Started process (PID=1880) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:42:55.446+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:42:55.448+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:42:55.448+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:42:55.637+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:42:55.654+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:42:55.653+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:42:55.667+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:42:55.667+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:42:55.679+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.238 seconds
+[2023-10-17T14:43:25.853+0000] {processor.py:157} INFO - Started process (PID=1908) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:43:25.853+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:43:25.856+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:43:25.855+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:43:26.042+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:43:26.059+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:43:26.058+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:43:26.072+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:43:26.072+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:43:26.082+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.233 seconds
+[2023-10-17T14:43:56.250+0000] {processor.py:157} INFO - Started process (PID=1936) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:43:56.251+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:43:56.253+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:43:56.253+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:43:56.439+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:43:56.455+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:43:56.455+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:43:56.468+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:43:56.468+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:43:56.477+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.229 seconds
+[2023-10-17T14:44:26.620+0000] {processor.py:157} INFO - Started process (PID=1956) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:44:26.621+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:44:26.623+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:44:26.623+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:44:26.823+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:44:26.841+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:44:26.841+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:44:26.854+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:44:26.854+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:44:26.863+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.246 seconds
+[2023-10-17T14:44:56.965+0000] {processor.py:157} INFO - Started process (PID=1984) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:44:56.966+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:44:56.970+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:44:56.970+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:44:57.172+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:44:57.191+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:44:57.190+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:44:57.205+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:44:57.204+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:15:00+00:00, run_after=2023-10-17T14:30:00+00:00
+[2023-10-17T14:44:57.216+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.253 seconds
+[2023-10-17T14:45:27.468+0000] {processor.py:157} INFO - Started process (PID=2012) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:45:27.469+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:45:27.471+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:45:27.471+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:45:27.665+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:45:27.681+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:45:27.681+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:45:27.693+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:45:27.693+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:45:27.704+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.240 seconds
+[2023-10-17T14:45:57.854+0000] {processor.py:157} INFO - Started process (PID=2040) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:45:57.855+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:45:57.857+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:45:57.857+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:45:58.048+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:45:58.066+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:45:58.066+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:45:58.082+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:45:58.082+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:45:58.093+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.242 seconds
+[2023-10-17T14:46:28.259+0000] {processor.py:157} INFO - Started process (PID=2060) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:46:28.260+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:46:28.262+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:46:28.262+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:46:28.448+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:46:28.464+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:46:28.463+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:46:28.476+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:46:28.476+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:46:28.485+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.233 seconds
+[2023-10-17T14:46:58.744+0000] {processor.py:157} INFO - Started process (PID=2088) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:46:58.745+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:46:58.747+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:46:58.746+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:46:58.931+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:46:58.947+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:46:58.946+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:46:58.958+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:46:58.958+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:46:58.968+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.227 seconds
+[2023-10-17T14:47:29.197+0000] {processor.py:157} INFO - Started process (PID=2116) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:47:29.198+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:47:29.200+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:47:29.199+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:47:29.382+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:47:29.397+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:47:29.396+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:47:29.408+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:47:29.408+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:47:29.417+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.223 seconds
+[2023-10-17T14:47:59.542+0000] {processor.py:157} INFO - Started process (PID=2144) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:47:59.542+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:47:59.544+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:47:59.544+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:47:59.717+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:47:59.732+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:47:59.732+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:47:59.744+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:47:59.743+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:47:59.754+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.214 seconds
+[2023-10-17T14:48:30.003+0000] {processor.py:157} INFO - Started process (PID=2164) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:48:30.004+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:48:30.006+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:48:30.006+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:48:30.190+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:48:30.207+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:48:30.207+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:48:30.221+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:48:30.221+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:48:30.231+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.231 seconds
+[2023-10-17T14:49:00.395+0000] {processor.py:157} INFO - Started process (PID=2192) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:49:00.396+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:49:00.399+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:49:00.399+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:49:00.602+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:49:00.620+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:49:00.620+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:49:00.636+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:49:00.636+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:49:00.647+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.255 seconds
+[2023-10-17T14:49:30.769+0000] {processor.py:157} INFO - Started process (PID=2220) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:49:30.770+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:49:30.772+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:49:30.772+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:49:30.959+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:49:30.978+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:49:30.978+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:49:30.994+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:49:30.994+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:49:31.007+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.241 seconds
+[2023-10-17T14:50:01.142+0000] {processor.py:157} INFO - Started process (PID=2248) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:50:01.144+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:50:01.148+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:50:01.147+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:50:01.359+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:50:01.379+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:50:01.378+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:50:01.395+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:50:01.395+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:50:01.411+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.272 seconds
+[2023-10-17T14:50:31.558+0000] {processor.py:157} INFO - Started process (PID=2268) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:50:31.559+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:50:31.561+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:50:31.560+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:50:31.749+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:50:31.768+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:50:31.768+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:50:31.782+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:50:31.782+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:50:31.796+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.241 seconds
+[2023-10-17T14:51:01.911+0000] {processor.py:157} INFO - Started process (PID=2296) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:51:01.912+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:51:01.914+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:51:01.914+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:51:02.099+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:51:02.115+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:51:02.114+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:51:02.127+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:51:02.127+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:51:02.137+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.229 seconds
+[2023-10-17T14:51:32.238+0000] {processor.py:157} INFO - Started process (PID=2324) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:51:32.239+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:51:32.240+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:51:32.240+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:51:32.455+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:51:32.475+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:51:32.475+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:51:32.492+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:51:32.492+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:51:32.505+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.271 seconds
+[2023-10-17T14:52:02.594+0000] {processor.py:157} INFO - Started process (PID=2344) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:52:02.595+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:52:02.597+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:52:02.596+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:52:02.774+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:52:02.790+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:52:02.790+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:52:02.802+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:52:02.802+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:52:02.813+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.221 seconds
+[2023-10-17T14:52:33.025+0000] {processor.py:157} INFO - Started process (PID=2372) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:52:33.026+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:52:33.028+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:52:33.028+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:52:33.217+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:52:33.232+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:52:33.232+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:52:33.244+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:52:33.244+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:52:33.253+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.232 seconds
+[2023-10-17T14:53:03.505+0000] {processor.py:157} INFO - Started process (PID=2400) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:53:03.506+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:53:03.507+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:53:03.507+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:53:03.690+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:53:03.705+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:53:03.705+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:53:03.717+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:53:03.717+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:53:03.727+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.225 seconds
+[2023-10-17T14:53:33.869+0000] {processor.py:157} INFO - Started process (PID=2428) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:53:33.870+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:53:33.872+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:53:33.871+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:53:34.050+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:53:34.065+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:53:34.064+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:53:34.077+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:53:34.077+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:53:34.087+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.222 seconds
+[2023-10-17T14:54:04.296+0000] {processor.py:157} INFO - Started process (PID=2448) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:54:04.297+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:54:04.299+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:54:04.299+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:54:04.485+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:54:04.502+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:54:04.502+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:54:04.517+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:54:04.516+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:54:04.529+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.236 seconds
+[2023-10-17T14:54:34.736+0000] {processor.py:157} INFO - Started process (PID=2475) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:54:34.737+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:54:34.738+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:54:34.738+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:54:34.938+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:54:34.955+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:54:34.955+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:54:34.969+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:54:34.969+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:54:34.981+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.249 seconds
+[2023-10-17T14:55:05.097+0000] {processor.py:157} INFO - Started process (PID=2503) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:55:05.098+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:55:05.100+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:55:05.100+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:55:05.280+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:55:05.295+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:55:05.295+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:55:05.308+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:55:05.308+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:55:05.318+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.225 seconds
+[2023-10-17T14:55:35.446+0000] {processor.py:157} INFO - Started process (PID=2531) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:55:35.447+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:55:35.449+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:55:35.449+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:55:35.634+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:55:35.648+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:55:35.648+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:55:35.660+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:55:35.660+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:55:35.670+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.230 seconds
+[2023-10-17T14:56:05.776+0000] {processor.py:157} INFO - Started process (PID=2551) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:56:05.778+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:56:05.780+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:56:05.779+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:56:05.961+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:56:05.977+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:56:05.977+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:56:05.988+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:56:05.988+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:56:05.997+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.227 seconds
+[2023-10-17T14:56:36.131+0000] {processor.py:157} INFO - Started process (PID=2579) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:56:36.132+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:56:36.134+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:56:36.134+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:56:36.319+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:56:36.335+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:56:36.335+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:56:36.347+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:56:36.347+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:56:36.355+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.227 seconds
+[2023-10-17T14:57:06.484+0000] {processor.py:157} INFO - Started process (PID=2607) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:57:06.486+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:57:06.488+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:57:06.488+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:57:06.671+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:57:06.686+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:57:06.685+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:57:06.697+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:57:06.697+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:57:06.707+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.225 seconds
+[2023-10-17T14:57:36.829+0000] {processor.py:157} INFO - Started process (PID=2635) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:57:36.830+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:57:36.831+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:57:36.831+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:57:37.018+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:57:37.033+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:57:37.033+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:57:37.045+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:57:37.045+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:57:37.054+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.232 seconds
+[2023-10-17T14:58:07.184+0000] {processor.py:157} INFO - Started process (PID=2655) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:58:07.185+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:58:07.187+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:58:07.187+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:58:07.365+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:58:07.381+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:58:07.381+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:58:07.392+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:58:07.392+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:58:07.401+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.223 seconds
+[2023-10-17T14:58:37.539+0000] {processor.py:157} INFO - Started process (PID=2683) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:58:37.542+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:58:37.546+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:58:37.546+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:58:37.721+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:58:37.736+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:58:37.736+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:58:37.748+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:58:37.748+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:58:37.759+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.222 seconds
+[2023-10-17T14:59:07.848+0000] {processor.py:157} INFO - Started process (PID=2711) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:59:07.850+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:59:07.851+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:59:07.851+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:59:08.033+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:59:08.048+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:59:08.048+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:59:08.060+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:59:08.060+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:59:08.069+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.227 seconds
+[2023-10-17T14:59:38.274+0000] {processor.py:157} INFO - Started process (PID=2739) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:59:38.275+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T14:59:38.276+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:59:38.276+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:59:38.454+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T14:59:38.468+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:59:38.468+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T14:59:38.480+0000] {logging_mixin.py:151} INFO - [2023-10-17T14:59:38.480+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:30:00+00:00, run_after=2023-10-17T14:45:00+00:00
+[2023-10-17T14:59:38.489+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.218 seconds
+[2023-10-17T15:00:08.614+0000] {processor.py:157} INFO - Started process (PID=2758) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:00:08.615+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T15:00:08.617+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:00:08.616+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:00:08.822+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:00:08.844+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:00:08.844+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T15:00:08.860+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:00:08.860+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:45:00+00:00, run_after=2023-10-17T15:00:00+00:00
+[2023-10-17T15:00:08.872+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.261 seconds
+[2023-10-17T15:00:38.983+0000] {processor.py:157} INFO - Started process (PID=2786) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:00:38.984+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T15:00:38.986+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:00:38.986+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:00:39.165+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:00:39.182+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:00:39.181+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T15:00:39.192+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:00:39.192+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:45:00+00:00, run_after=2023-10-17T15:00:00+00:00
+[2023-10-17T15:00:39.202+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.222 seconds
+[2023-10-17T15:01:09.343+0000] {processor.py:157} INFO - Started process (PID=2814) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:01:09.344+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T15:01:09.346+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:01:09.346+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:01:09.528+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:01:09.544+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:01:09.543+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T15:01:09.555+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:01:09.555+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:45:00+00:00, run_after=2023-10-17T15:00:00+00:00
+[2023-10-17T15:01:09.564+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.224 seconds
+[2023-10-17T15:01:39.692+0000] {processor.py:157} INFO - Started process (PID=2842) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:01:39.693+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T15:01:39.695+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:01:39.695+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:01:39.898+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:01:39.916+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:01:39.915+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T15:01:39.930+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:01:39.930+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:45:00+00:00, run_after=2023-10-17T15:00:00+00:00
+[2023-10-17T15:01:39.942+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.253 seconds
+[2023-10-17T15:02:10.172+0000] {processor.py:157} INFO - Started process (PID=2862) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:02:10.173+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T15:02:10.175+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:02:10.175+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:02:10.375+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:02:10.393+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:02:10.393+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T15:02:10.407+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:02:10.407+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:45:00+00:00, run_after=2023-10-17T15:00:00+00:00
+[2023-10-17T15:02:10.419+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.250 seconds
+[2023-10-17T15:02:40.525+0000] {processor.py:157} INFO - Started process (PID=2891) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:02:40.526+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T15:02:40.527+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:02:40.527+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:02:40.727+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:02:40.748+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:02:40.747+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T15:02:40.761+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:02:40.761+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:45:00+00:00, run_after=2023-10-17T15:00:00+00:00
+[2023-10-17T15:02:40.774+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.252 seconds
+[2023-10-17T15:03:10.863+0000] {processor.py:157} INFO - Started process (PID=2919) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:03:10.864+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T15:03:10.866+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:03:10.866+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:03:11.047+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:03:11.062+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:03:11.061+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T15:03:11.072+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:03:11.072+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:45:00+00:00, run_after=2023-10-17T15:00:00+00:00
+[2023-10-17T15:03:11.081+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.221 seconds
+[2023-10-17T15:03:41.221+0000] {processor.py:157} INFO - Started process (PID=2946) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:03:41.222+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T15:03:41.223+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:03:41.223+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:03:41.401+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:03:41.417+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:03:41.416+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T15:03:41.429+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:03:41.429+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:45:00+00:00, run_after=2023-10-17T15:00:00+00:00
+[2023-10-17T15:03:41.440+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.222 seconds
+[2023-10-17T15:04:11.582+0000] {processor.py:157} INFO - Started process (PID=2967) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:04:11.583+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T15:04:11.585+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:04:11.584+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:04:11.773+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:04:11.788+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:04:11.788+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T15:04:11.800+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:04:11.800+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:45:00+00:00, run_after=2023-10-17T15:00:00+00:00
+[2023-10-17T15:04:11.810+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.230 seconds
+[2023-10-17T15:04:41.979+0000] {processor.py:157} INFO - Started process (PID=2994) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:04:41.980+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T15:04:41.982+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:04:41.982+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:04:42.159+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:04:42.175+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:04:42.174+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T15:04:42.187+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:04:42.187+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:45:00+00:00, run_after=2023-10-17T15:00:00+00:00
+[2023-10-17T15:04:42.196+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.221 seconds
+[2023-10-17T15:05:12.315+0000] {processor.py:157} INFO - Started process (PID=3022) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:05:12.316+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T15:05:12.318+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:05:12.317+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:05:12.505+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:05:12.522+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:05:12.522+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T15:05:12.534+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:05:12.534+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:45:00+00:00, run_after=2023-10-17T15:00:00+00:00
+[2023-10-17T15:05:12.543+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.231 seconds
+[2023-10-17T15:05:42.731+0000] {processor.py:157} INFO - Started process (PID=3042) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:05:42.732+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T15:05:42.733+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:05:42.733+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:05:42.918+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:05:42.933+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:05:42.933+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T15:05:42.945+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:05:42.945+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:45:00+00:00, run_after=2023-10-17T15:00:00+00:00
+[2023-10-17T15:05:42.954+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.225 seconds
+[2023-10-17T15:06:13.092+0000] {processor.py:157} INFO - Started process (PID=3070) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:06:13.093+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T15:06:13.095+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:06:13.095+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:06:13.287+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:06:13.303+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:06:13.302+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T15:06:13.314+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:06:13.314+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:45:00+00:00, run_after=2023-10-17T15:00:00+00:00
+[2023-10-17T15:06:13.324+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.235 seconds
+[2023-10-17T15:06:43.485+0000] {processor.py:157} INFO - Started process (PID=3098) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:06:43.486+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T15:06:43.487+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:06:43.487+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:06:43.676+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:06:43.693+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:06:43.692+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T15:06:43.706+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:06:43.706+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:45:00+00:00, run_after=2023-10-17T15:00:00+00:00
+[2023-10-17T15:06:43.717+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.235 seconds
+[2023-10-17T15:07:13.853+0000] {processor.py:157} INFO - Started process (PID=3126) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:07:13.854+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T15:07:13.856+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:07:13.856+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:07:14.046+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:07:14.061+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:07:14.060+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T15:07:14.072+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:07:14.072+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:45:00+00:00, run_after=2023-10-17T15:00:00+00:00
+[2023-10-17T15:07:14.081+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.230 seconds
+[2023-10-17T15:07:44.333+0000] {processor.py:157} INFO - Started process (PID=3146) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:07:44.334+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T15:07:44.336+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:07:44.336+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:07:44.523+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:07:44.542+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:07:44.541+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T15:07:44.555+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:07:44.555+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:45:00+00:00, run_after=2023-10-17T15:00:00+00:00
+[2023-10-17T15:07:44.566+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.237 seconds
+[2023-10-17T15:08:14.696+0000] {processor.py:157} INFO - Started process (PID=3173) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:08:14.697+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T15:08:14.699+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:08:14.699+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:08:14.883+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:08:14.897+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:08:14.897+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T15:08:14.909+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:08:14.909+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:45:00+00:00, run_after=2023-10-17T15:00:00+00:00
+[2023-10-17T15:08:14.918+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.225 seconds
+[2023-10-17T15:08:45.051+0000] {processor.py:157} INFO - Started process (PID=3200) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:08:45.051+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T15:08:45.053+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:08:45.053+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:08:45.240+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:08:45.257+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:08:45.257+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T15:08:45.271+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:08:45.270+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:45:00+00:00, run_after=2023-10-17T15:00:00+00:00
+[2023-10-17T15:08:45.281+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.233 seconds
+[2023-10-17T15:09:15.410+0000] {processor.py:157} INFO - Started process (PID=3228) to work on /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:09:15.411+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/omni/transactions_dag.py for tasks to queue
+[2023-10-17T15:09:15.413+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:09:15.412+0000] {dagbag.py:539} INFO - Filling up the DagBag from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:09:15.594+0000] {processor.py:839} INFO - DAG(s) dict_keys(['get_omni_transactions']) retrieved from /opt/airflow/dags/omni/transactions_dag.py
+[2023-10-17T15:09:15.608+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:09:15.608+0000] {dag.py:2915} INFO - Sync 1 DAGs
+[2023-10-17T15:09:15.619+0000] {logging_mixin.py:151} INFO - [2023-10-17T15:09:15.619+0000] {dag.py:3696} INFO - Setting next_dagrun for get_omni_transactions to 2023-10-17T14:45:00+00:00, run_after=2023-10-17T15:00:00+00:00
+[2023-10-17T15:09:15.631+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/omni/transactions_dag.py took 0.223 seconds

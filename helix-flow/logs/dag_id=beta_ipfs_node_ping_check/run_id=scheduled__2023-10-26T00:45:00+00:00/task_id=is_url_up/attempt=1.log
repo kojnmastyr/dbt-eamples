@@ -1,0 +1,13 @@
+[2023-10-26T01:07:34.845+0000] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: beta_ipfs_node_ping_check.is_url_up scheduled__2023-10-26T00:45:00+00:00 [queued]>
+[2023-10-26T01:07:34.851+0000] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: beta_ipfs_node_ping_check.is_url_up scheduled__2023-10-26T00:45:00+00:00 [queued]>
+[2023-10-26T01:07:34.852+0000] {taskinstance.py:1359} INFO - Starting attempt 1 of 4
+[2023-10-26T01:07:34.860+0000] {taskinstance.py:1380} INFO - Executing <Task(PythonOperator): is_url_up> on 2023-10-26 00:45:00+00:00
+[2023-10-26T01:07:34.863+0000] {standard_task_runner.py:57} INFO - Started process 63 to run task
+[2023-10-26T01:07:34.865+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'beta_ipfs_node_ping_check', 'is_url_up', 'scheduled__2023-10-26T00:45:00+00:00', '--job-id', '16', '--raw', '--subdir', 'DAGS_FOLDER/devops/beta_ipfs_node_ping_dag.py', '--cfg-path', '/tmp/tmp8a9v4iy7']
+[2023-10-26T01:07:34.866+0000] {standard_task_runner.py:85} INFO - Job 16: Subtask is_url_up
+[2023-10-26T01:07:34.910+0000] {task_command.py:415} INFO - Running <TaskInstance: beta_ipfs_node_ping_check.is_url_up scheduled__2023-10-26T00:45:00+00:00 [running]> on host d165e8ebff2d
+[2023-10-26T01:07:35.006+0000] {taskinstance.py:1660} INFO - Exporting env vars: AIRFLOW_CTX_DAG_EMAIL='mandeep@selfid.com' AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='beta_ipfs_node_ping_check' AIRFLOW_CTX_TASK_ID='is_url_up' AIRFLOW_CTX_EXECUTION_DATE='2023-10-26T00:45:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-10-26T00:45:00+00:00'
+[2023-10-26T01:07:35.070+0000] {python.py:194} INFO - Done. Returned value was: True
+[2023-10-26T01:07:35.085+0000] {taskinstance.py:1398} INFO - Marking task as SUCCESS. dag_id=beta_ipfs_node_ping_check, task_id=is_url_up, execution_date=20231026T004500, start_date=20231026T010734, end_date=20231026T010735
+[2023-10-26T01:07:35.137+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2023-10-26T01:07:35.148+0000] {taskinstance.py:2776} INFO - 0 downstream tasks scheduled from follow-on schedule check

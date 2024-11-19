@@ -1,0 +1,88 @@
+[2023-10-17T14:06:57.176+0000] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: get_omni_transactions.check_and_append_transactions scheduled__2023-10-06T05:15:00+00:00 [queued]>
+[2023-10-17T14:06:57.181+0000] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: get_omni_transactions.check_and_append_transactions scheduled__2023-10-06T05:15:00+00:00 [queued]>
+[2023-10-17T14:06:57.181+0000] {taskinstance.py:1359} INFO - Starting attempt 1 of 6
+[2023-10-17T14:06:57.295+0000] {taskinstance.py:1380} INFO - Executing <Task(PythonOperator): check_and_append_transactions> on 2023-10-06 05:15:00+00:00
+[2023-10-17T14:06:57.299+0000] {standard_task_runner.py:57} INFO - Started process 55 to run task
+[2023-10-17T14:06:57.302+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'get_omni_transactions', 'check_and_append_transactions', 'scheduled__2023-10-06T05:15:00+00:00', '--job-id', '117', '--raw', '--subdir', 'DAGS_FOLDER/omni/transactions_dag.py', '--cfg-path', '/tmp/tmpte4xsoye']
+[2023-10-17T14:06:57.305+0000] {standard_task_runner.py:85} INFO - Job 117: Subtask check_and_append_transactions
+[2023-10-17T14:06:57.334+0000] {task_command.py:415} INFO - Running <TaskInstance: get_omni_transactions.check_and_append_transactions scheduled__2023-10-06T05:15:00+00:00 [running]> on host b366a687b799
+[2023-10-17T14:06:57.377+0000] {taskinstance.py:1660} INFO - Exporting env vars: AIRFLOW_CTX_DAG_EMAIL='paul@selfid.com' AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='get_omni_transactions' AIRFLOW_CTX_TASK_ID='check_and_append_transactions' AIRFLOW_CTX_EXECUTION_DATE='2023-10-06T05:15:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-10-06T05:15:00+00:00'
+[2023-10-17T14:06:57.378+0000] {transactions_dag.py:15} INFO - Args: ()
+[2023-10-17T14:06:57.378+0000] {transactions_dag.py:16} INFO - Kwargs: {'conf': <***.configuration.AirflowConfigParser object at 0xffffb7f9b3a0>, 'dag': <DAG: get_omni_transactions>, 'dag_run': <DagRun get_omni_transactions @ 2023-10-06 05:15:00+00:00: scheduled__2023-10-06T05:15:00+00:00, state:running, queued_at: 2023-10-17 14:06:53.590035+00:00. externally triggered: False>, 'data_interval_end': DateTime(2023, 10, 6, 5, 30, 0, tzinfo=Timezone('UTC')), 'data_interval_start': DateTime(2023, 10, 6, 5, 15, 0, tzinfo=Timezone('UTC')), 'ds': '2023-10-06', 'ds_nodash': '20231006', 'execution_date': <Proxy at 0xffff94198f80 with factory functools.partial(<function lazy_mapping_from_context.<locals>._deprecated_proxy_factory at 0xffffb2b29dc0>, 'execution_date', DateTime(2023, 10, 6, 5, 15, 0, tzinfo=Timezone('UTC')))>, 'expanded_ti_count': None, 'inlets': [], 'logical_date': DateTime(2023, 10, 6, 5, 15, 0, tzinfo=Timezone('UTC')), 'macros': <module '***.macros' from '/home/***/.local/lib/python3.8/site-packages/***/macros/__init__.py'>, 'next_ds': <Proxy at 0xffff94218400 with factory functools.partial(<function lazy_mapping_from_context.<locals>._deprecated_proxy_factory at 0xffffb2b29dc0>, 'next_ds', '2023-10-06')>, 'next_ds_nodash': <Proxy at 0xffff941aa540 with factory functools.partial(<function lazy_mapping_from_context.<locals>._deprecated_proxy_factory at 0xffffb2b29dc0>, 'next_ds_nodash', '20231006')>, 'next_execution_date': <Proxy at 0xffff941a6600 with factory functools.partial(<function lazy_mapping_from_context.<locals>._deprecated_proxy_factory at 0xffffb2b29dc0>, 'next_execution_date', DateTime(2023, 10, 6, 5, 30, 0, tzinfo=Timezone('UTC')))>, 'outlets': [], 'params': {}, 'prev_data_interval_start_success': DateTime(2023, 10, 6, 5, 0, 0, tzinfo=Timezone('UTC')), 'prev_data_interval_end_success': DateTime(2023, 10, 6, 5, 15, 0, tzinfo=Timezone('UTC')), 'prev_ds': <Proxy at 0xffff941b0480 with factory functools.partial(<function lazy_mapping_from_context.<locals>._deprecated_proxy_factory at 0xffffb2b29dc0>, 'prev_ds', '2023-10-06')>, 'prev_ds_nodash': <Proxy at 0xffff941b01c0 with factory functools.partial(<function lazy_mapping_from_context.<locals>._deprecated_proxy_factory at 0xffffb2b29dc0>, 'prev_ds_nodash', '20231006')>, 'prev_execution_date': <Proxy at 0xffff941b0540 with factory functools.partial(<function lazy_mapping_from_context.<locals>._deprecated_proxy_factory at 0xffffb2b29dc0>, 'prev_execution_date', DateTime(2023, 10, 6, 5, 0, 0, tzinfo=Timezone('UTC')))>, 'prev_execution_date_success': <Proxy at 0xffff941b0580 with factory functools.partial(<function lazy_mapping_from_context.<locals>._deprecated_proxy_factory at 0xffffb2b29dc0>, 'prev_execution_date_success', DateTime(2023, 10, 6, 5, 0, 0, tzinfo=Timezone('UTC')))>, 'prev_start_date_success': DateTime(2023, 10, 6, 5, 15, 0, 718056, tzinfo=Timezone('UTC')), 'run_id': 'scheduled__2023-10-06T05:15:00+00:00', 'task': <Task(PythonOperator): check_and_append_transactions>, 'task_instance': <TaskInstance: get_omni_transactions.check_and_append_transactions scheduled__2023-10-06T05:15:00+00:00 [running]>, 'task_instance_key_str': 'get_omni_transactions__check_and_append_transactions__20231006', 'test_mode': False, 'tomorrow_ds': <Proxy at 0xffff941b05c0 with factory functools.partial(<function lazy_mapping_from_context.<locals>._deprecated_proxy_factory at 0xffffb2b29dc0>, 'tomorrow_ds', '2023-10-07')>, 'tomorrow_ds_nodash': <Proxy at 0xffff941b0600 with factory functools.partial(<function lazy_mapping_from_context.<locals>._deprecated_proxy_factory at 0xffffb2b29dc0>, 'tomorrow_ds_nodash', '20231007')>, 'triggering_dataset_events': <Proxy at 0xffff941d4cc0 with factory <function TaskInstance.get_template_context.<locals>.get_triggering_events at 0xffff942074c0>>, 'ts': '2023-10-06T05:15:00+00:00', 'ts_nodash': '20231006T051500', 'ts_nodash_with_tz': '20231006T051500+0000', 'var': {'json': None, 'value': None}, 'conn': None, 'yesterday_ds': <Proxy at 0xffff941b0640 with factory functools.partial(<function lazy_mapping_from_context.<locals>._deprecated_proxy_factory at 0xffffb2b29dc0>, 'yesterday_ds', '2023-10-05')>, 'yesterday_ds_nodash': <Proxy at 0xffff941b0680 with factory functools.partial(<function lazy_mapping_from_context.<locals>._deprecated_proxy_factory at 0xffffb2b29dc0>, 'yesterday_ds_nodash', '20231005')>, 'templates_dict': None}
+[2023-10-17T14:06:57.603+0000] {postgres_client.py:31} INFO - Connection to Postgres established.
+[2023-10-17T14:06:57.604+0000] {postgres_client.py:51} INFO - Executing query: SELECT MAX(block) AS last_block FROM omni.self_testnet_transactions
+[2023-10-17T14:06:57.651+0000] {transactions_dag.py:26} INFO - Last seen block with a SELF transaction: 2530951
+[2023-10-17T14:08:12.660+0000] {taskinstance.py:1935} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/urllib3/connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+  File "/home/airflow/.local/lib/python3.8/site-packages/urllib3/util/connection.py", line 95, in create_connection
+    raise err
+  File "/home/airflow/.local/lib/python3.8/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/urllib3/connectionpool.py", line 714, in urlopen
+    httplib_response = self._make_request(
+  File "/home/airflow/.local/lib/python3.8/site-packages/urllib3/connectionpool.py", line 415, in _make_request
+    conn.request(method, url, **httplib_request_kw)
+  File "/home/airflow/.local/lib/python3.8/site-packages/urllib3/connection.py", line 244, in request
+    super(HTTPConnection, self).request(method, url, body=body, headers=headers)
+  File "/usr/local/lib/python3.8/http/client.py", line 1256, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/local/lib/python3.8/http/client.py", line 1302, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/local/lib/python3.8/http/client.py", line 1251, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/local/lib/python3.8/http/client.py", line 1011, in _send_output
+    self.send(msg)
+  File "/usr/local/lib/python3.8/http/client.py", line 951, in send
+    self.connect()
+  File "/home/airflow/.local/lib/python3.8/site-packages/urllib3/connection.py", line 205, in connect
+    conn = self._new_conn()
+  File "/home/airflow/.local/lib/python3.8/site-packages/urllib3/connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0xffff941a9b20>: Failed to establish a new connection: [Errno 111] Connection refused
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/requests/adapters.py", line 486, in send
+    resp = conn.urlopen(
+  File "/home/airflow/.local/lib/python3.8/site-packages/urllib3/connectionpool.py", line 798, in urlopen
+    retries = retries.increment(
+  File "/home/airflow/.local/lib/python3.8/site-packages/urllib3/util/retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='192.168.1.168', port=8332): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xffff941a9b20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 192, in execute
+    return_value = self.execute_callable()
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/operators/python.py", line 209, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/opt/airflow/dags/omni/transactions_dag.py", line 27, in check_and_append_transactions
+    current_block = int(api.get_info()['block'])
+  File "/sources/utils/omni_rpc_client.py", line 57, in get_info
+    return self.perform_request("omni_getinfo")
+  File "/sources/utils/omni_rpc_client.py", line 43, in perform_request
+    resp = requests.post(
+  File "/home/airflow/.local/lib/python3.8/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/airflow/.local/lib/python3.8/site-packages/requests/adapters.py", line 519, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='192.168.1.168', port=8332): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xffff941a9b20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+[2023-10-17T14:08:12.684+0000] {taskinstance.py:1398} INFO - Marking task as UP_FOR_RETRY. dag_id=get_omni_transactions, task_id=check_and_append_transactions, execution_date=20231006T051500, start_date=20231017T140657, end_date=20231017T140812
+[2023-10-17T14:08:12.692+0000] {standard_task_runner.py:104} ERROR - Failed to execute job 117 for task check_and_append_transactions (HTTPConnectionPool(host='192.168.1.168', port=8332): Max retries exceeded with url: / (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0xffff941a9b20>: Failed to establish a new connection: [Errno 111] Connection refused')); 55)
+[2023-10-17T14:08:12.717+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 1
+[2023-10-17T14:08:12.727+0000] {taskinstance.py:2776} INFO - 0 downstream tasks scheduled from follow-on schedule check

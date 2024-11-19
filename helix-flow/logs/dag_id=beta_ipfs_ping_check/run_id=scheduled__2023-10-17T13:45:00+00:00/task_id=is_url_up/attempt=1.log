@@ -1,0 +1,17 @@
+[2023-10-17T14:09:56.314+0000] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: beta_ipfs_ping_check.is_url_up scheduled__2023-10-17T13:45:00+00:00 [queued]>
+[2023-10-17T14:09:56.319+0000] {taskinstance.py:1157} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: beta_ipfs_ping_check.is_url_up scheduled__2023-10-17T13:45:00+00:00 [queued]>
+[2023-10-17T14:09:56.320+0000] {taskinstance.py:1359} INFO - Starting attempt 1 of 4
+[2023-10-17T14:09:56.327+0000] {taskinstance.py:1380} INFO - Executing <Task(PythonOperator): is_url_up> on 2023-10-17 13:45:00+00:00
+[2023-10-17T14:09:56.330+0000] {standard_task_runner.py:57} INFO - Started process 192 to run task
+[2023-10-17T14:09:56.332+0000] {standard_task_runner.py:84} INFO - Running: ['***', 'tasks', 'run', 'beta_ipfs_ping_check', 'is_url_up', 'scheduled__2023-10-17T13:45:00+00:00', '--job-id', '118', '--raw', '--subdir', 'DAGS_FOLDER/devops/beta_ipfs_ping.py', '--cfg-path', '/tmp/tmpxzkenzzo']
+[2023-10-17T14:09:56.333+0000] {standard_task_runner.py:85} INFO - Job 118: Subtask is_url_up
+[2023-10-17T14:09:56.367+0000] {task_command.py:415} INFO - Running <TaskInstance: beta_ipfs_ping_check.is_url_up scheduled__2023-10-17T13:45:00+00:00 [running]> on host b366a687b799
+[2023-10-17T14:09:56.411+0000] {taskinstance.py:1660} INFO - Exporting env vars: AIRFLOW_CTX_DAG_EMAIL='mandeep@selfid.com' AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='beta_ipfs_ping_check' AIRFLOW_CTX_TASK_ID='is_url_up' AIRFLOW_CTX_EXECUTION_DATE='2023-10-17T13:45:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-10-17T13:45:00+00:00'
+[2023-10-17T14:09:56.537+0000] {python.py:194} INFO - Done. Returned value was: True
+[2023-10-17T14:09:56.551+0000] {taskinstance.py:1398} INFO - Marking task as SUCCESS. dag_id=beta_ipfs_ping_check, task_id=is_url_up, execution_date=20231017T134500, start_date=20231017T140956, end_date=20231017T140956
+[2023-10-17T14:09:56.552+0000] {warnings.py:109} WARNING - /home/***/.local/lib/python3.8/site-packages/***/utils/context.py:206: AirflowContextDeprecationWarning: Accessing 'execution_date' from the template is deprecated and will be removed in a future version. Please use 'data_interval_start' or 'logical_date' instead.
+  warnings.warn(_create_deprecation_warning(key, self._deprecation_replacements[key]))
+
+[2023-10-17T14:09:56.555+0000] {base.py:73} INFO - Using connection ID 'slack_reports_hook' for task execution.
+[2023-10-17T14:09:56.942+0000] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2023-10-17T14:09:56.956+0000] {taskinstance.py:2776} INFO - 0 downstream tasks scheduled from follow-on schedule check
