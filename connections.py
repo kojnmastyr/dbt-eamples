@@ -115,6 +115,7 @@ class SnowflakeCredentials(Credentials):
     password: Optional[str] = None
     authenticator: Optional[str] = "oauth"
     token: Optional[str] = None
+    type: str = "snowflake"  # Add type attribute
     # other existing fields...
 
     def _get_access_token(self) -> str:
@@ -137,6 +138,18 @@ class SnowflakeCredentials(Credentials):
 
         # Additional auth arguments, if needed...
         return result
+
+    def _connection_keys(self) -> List[str]:
+        # List all fields used for authentication that need to be included in the connection keys
+        return [
+            "account",
+            "user",
+            "warehouse",
+            "role",
+            "password",
+            "authenticator",
+            "token",
+        ]
 
 
 class SnowflakeConnectionManager(SQLConnectionManager):
@@ -176,7 +189,7 @@ class SnowflakeConnectionManager(SQLConnectionManager):
             if isinstance(e, snowflake.connector.errors.Error):
                 logger.debug("Snowflake query id: {}".format(e.sfqid))
 
-            logger.debug("Error running SQL: {}", sql)
+            logger.debug("Error running SQL: {}".format(sql))
             logger.debug("Rolling back transaction.")
             self.rollback_if_open()
             if isinstance(e, DbtRuntimeError):
